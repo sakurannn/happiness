@@ -1,2 +1,0 @@
-class HappiesController < ApplicationController
-end
